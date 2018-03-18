@@ -1,0 +1,25 @@
+html {
+  height: 100%;
+}
+body {
+  background-image: url(img/hacker.jpg);
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.jumbotron {
+  margin-top: 10%;
+  min-height: 300px;
+  opacity: 0.8;
+}
+ul li {
+  list-style-type: none;
+}
+.nextQuote {
+  float: right;
+}
+.tweetQuote {
+  float: left;
+}
